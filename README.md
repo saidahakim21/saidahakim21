@@ -8,7 +8,7 @@ I am pursuing a master's degree in Inteligent Destributed Systems, and I'm very 
 
 - 🌱 I’m currently learning more about machine learning; 
 - 💬 How to reach me: you can email me at ahakim.said@gmail.com;
-- 📝[Resume]()
+- 📝[Resume](https://github.com/saidahakim21/saidahakim21/blob/main/Abdelhakims-Resume.pdf)
 
 
 <p float="left">
